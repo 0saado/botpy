@@ -386,4 +386,4 @@ async def play(ctx, url):
         play_song(client, musics[ctx.guild], video)
 
 
-bot.run("ODUyMTY4MjUwNjExODU5NDU3.YMC5hw.tCY2DKBu_P53PfkZy2MHiLIX-X8")
+bot.run(getenv('TOKEN'))
