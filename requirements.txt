@@ -1,0 +1,9 @@
+aiohttp==3.7.4.post0
+asyncio==3.4.3
+attrs==21.2.0
+colorama==0.4.4
+discord==1.7.3
+discord-webhook==0.14.0
+discord.py==1.7.3
+PyNaCl==1.4.0
+youtube-dl==2021.6.6
